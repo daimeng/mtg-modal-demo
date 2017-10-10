@@ -1,0 +1,7 @@
+{
+  "why does a js project need tsconfig for vscode": "billgatespls",
+  "compilerOptions": {
+      "experimentalDecorators": true,
+      "allowJs": true
+  }
+}
